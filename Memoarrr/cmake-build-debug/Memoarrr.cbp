@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Memoarrr"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Memoarrr">
+				<Option output="C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Memoarrr.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/mingw32"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 Memoarrr"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Memoarrr/fast">
+				<Option output="C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Memoarrr.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/mingw32"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 Memoarrr/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/board.cpp">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/board.h">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/card.cpp">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/card.h">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/cardDeck.cpp">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/cardDeck.h">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/config.h">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/deck.h">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/expertBoard.cpp">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/expertBoard.h">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/expertRules.cpp">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/expertRules.h">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/game.cpp">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/game.h">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/main.cpp">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/player.cpp">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/player.h">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/reward.cpp">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/reward.h">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/rewardDeck.cpp">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/rewardDeck.h">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/rules.cpp">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/rules.h">
+			<Option target="Memoarrr"/>
+		</Unit>
+		<Unit filename="C:/Users/Bouabdallah/CLionProjects/Memoarrr/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/CMakeFiles/Memoarrr.dir
+C:/Users/Bouabdallah/CLionProjects/Memoarrr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
